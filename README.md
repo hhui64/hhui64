@@ -1,4 +1,6 @@
-- 👋 おれは人间をやめるぞ！ジョジョ―――ッ！！/前端开发者/正在研究关于搬砖省力的相关课题  (๑•̀ㅂ•́)و✧
+- おれは人间をやめるぞ！ジョジョ―――ッ！！
+- Web 开发者 (๑•̀ㅂ•́)و✧
+- 正在研究关于搬砖省力的相关课题 |ू･ω･` )
 
 <!---
 hhui64/hhui64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
